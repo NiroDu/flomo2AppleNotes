@@ -1,0 +1,16 @@
+{
+  "name": "flomo2applenotes",
+  "version": "1.0.0",
+  "description": "flomo html -> apple notes",
+  "main": "index.js",
+  "repository": "git@github.com:NiroDu/flomo2AppleNotes.git",
+  "author": "nirodu <nirodu1219@outlook.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}
